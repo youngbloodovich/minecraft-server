@@ -12,7 +12,7 @@ services:
       MEMORY: "16384M"
       MOTD: "Поебаться с другом это круто!"
       ONLINE_MODE: "false"
-      DIFFICULTY: "2"
+      DIFFICULTY: "3"
       LEVEL: "Мужская сосисочная"
     volumes:
       - "./data:/data"
